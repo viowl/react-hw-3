@@ -1,1 +1,8 @@
-export default function SearchBox() {}
+export default function SearchBox() {
+  return (
+    <div>
+      <p>Find contacts by name</p>
+      <input type="text" name="search" />
+    </div>
+  );
+}
