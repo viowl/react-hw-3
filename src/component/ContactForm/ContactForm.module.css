@@ -4,3 +4,9 @@
   gap: 8px;
   width: 160px;
 }
+
+.error {
+  display: block;
+  font-size: 14px;
+  color: orangered;
+}
